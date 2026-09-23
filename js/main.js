@@ -12,6 +12,6 @@ document.addEventListener("DOMContentLoaded",()=>{
  const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.style.opacity="1";e.target.style.transform="translateY(0)";observer.unobserve(e.target)}}),{threshold:.08});
  document.querySelectorAll(".reveal").forEach(el=>{el.style.opacity="0";el.style.transform="translateY(24px)";el.style.transition="opacity .7s ease,transform .7s ease";observer.observe(el)});
  document.querySelectorAll("form[data-demo]").forEach(form=>form.addEventListener("submit",e=>{
-   e.preventDefault(); const notice=form.querySelector(".notice"); if(notice){notice.textContent="Thank you. Your request has been received. A RANSBERT ENGINEERING representative will contact you shortly.";notice.classList.add("show")} form.reset();
+   e.preventDefault(); const notice=form.querySelector(".notice"); if(notice){notice.textContent="Thank you. Your request has been received. A DREAMTECH CONSTRUCTION representative will contact you shortly.";notice.classList.add("show")} form.reset();
  }));
 });

@@ -1,4 +1,4 @@
-RANSBERT ENGINEERING — VANILLA HTML/CSS/JS
+DREAMTECH CONSTRUCTION — VANILLA HTML/CSS/JS
 ===========================================
 
 No npm. No Node.js. No React. No Next.js. No build tools.
@@ -23,8 +23,8 @@ Pages:
 
 The property catalogue is stored in js/properties.js.
 The design is intentionally dependency-free and uses local CSS/JS.
-Replace the sample SVG/placeholder imagery with RANSBERT ENGINEERING photography when available.
+Replace the sample SVG/placeholder imagery with DREAMTECH CONSTRUCTION photography when available.
 
 IMAGE NOTE
 ----------
-The visual version uses remote Unsplash images for the building photography. The selected source pages identify these images as free to use under the Unsplash License. Replace them with RANSBERT ENGINEERING-owned/licensed property photography before production if desired.
+The visual version uses remote Unsplash images for the building photography. The selected source pages identify these images as free to use under the Unsplash License. Replace them with DREAMTECH CONSTRUCTION-owned/licensed property photography before production if desired.
